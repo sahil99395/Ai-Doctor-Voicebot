@@ -2,6 +2,8 @@
 
 An AI-powered medical assistant that listens to your voice queries, analyzes uploaded medical images, and responds with text and voice outputs. Built with Gradio, Groq API, and ElevenLabs API, this project demonstrates the integration of speech-to-text, vision-based diagnosis, and text-to-speech synthesis into a single interactive application.
 
+Deployed link-https://huggingface.co/spaces/Sahil2026/Ai-Doctor-Voicebot
+
 ✨ Features
 
 🎤 Speech to Text: Record your voice and transcribe queries using Groq’s Whisper.
